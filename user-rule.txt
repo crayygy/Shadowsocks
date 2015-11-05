@@ -9,7 +9,6 @@ dropbox.com
 cloud.digitalocean.com
 vagrantup.com
 foxycart.com
-livid.v2ex.com
 udemy.com
 android.com
 wikipedia.org
@@ -29,7 +28,6 @@ resume.github.io
 github.io
 getmdl.io
 tumblr.com
-hsexh.tumblr.com
 mx.tumblr.com
 telegram.org
 ero-video.net
