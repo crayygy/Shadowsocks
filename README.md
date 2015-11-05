@@ -1,0 +1,2 @@
+# ShadowsocksX
+config of ShadowsocksX
