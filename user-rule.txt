@@ -25,6 +25,7 @@ google.com.hk
 gravatar.com
 hsexh.tumblr.com
 informit.com
+jinja.pocoo.org
 jquery.com
 kiwix.org
 livid.v2ex.com
