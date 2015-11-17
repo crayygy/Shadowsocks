@@ -23,8 +23,8 @@ getmdl.io
 google.com
 google.com.hk
 gravatar.com
-hsexh.tumblr.com
 informit.com
+inoreader.com
 jinja.pocoo.org
 jquery.com
 kiwix.org
