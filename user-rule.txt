@@ -28,7 +28,7 @@ inoreader.com
 jinja.pocoo.org
 jquery.com
 kiwix.org
-livid.v2ex.com
+lnmp.org
 macupdate.com
 mx.tumblr.com
 pocoo.org
