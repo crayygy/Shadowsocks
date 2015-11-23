@@ -28,6 +28,7 @@ inoreader.com
 jinja.pocoo.org
 jquery.com
 kiwix.org
+lmgtfy.com
 lnmp.org
 macupdate.com
 mx.tumblr.com
