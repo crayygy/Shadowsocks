@@ -27,6 +27,7 @@ informit.com
 inoreader.com
 jinja.pocoo.org
 jquery.com
+keepass.info
 kiwix.org
 lmgtfy.com
 lnmp.org
