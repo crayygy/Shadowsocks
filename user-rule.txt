@@ -19,6 +19,7 @@ fastly.net
 flask.pocoo.org
 foxycart.com
 getmdl.io
+githubusercontent.com
 google.com
 google.com.hk
 gravatar.com
