@@ -20,6 +20,7 @@ flask.pocoo.org
 foxycart.com
 getmdl.io
 githubusercontent.com
+gist.github.com
 google.com
 google.com.hk
 gravatar.com
