@@ -34,6 +34,7 @@ kiwix.org
 lmgtfy.com
 lnmp.org
 macupdate.com
+medium.com
 mx.tumblr.com
 nylas.com
 pocoo.org
